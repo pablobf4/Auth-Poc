@@ -1,0 +1,14 @@
+# Geral
+.DS_Store
+Thumbs.db
+
+# Node.js (Angular)
+node_modules/
+dist/
+
+# C# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs
